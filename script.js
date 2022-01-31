@@ -46,6 +46,18 @@ let All_song = [
     img: "image/symphony.jpeg",
     singer: "Clean Bandit & feat.Zara Larsson",
   },
+  {
+    name: "Fairytale",
+    path: "songs/song5.mp3",
+    img: "image/fairytales.jpeg",
+    singer: "Alexander Rybak",
+  },
+  {
+    name: "In The End",
+    path: "songs/song6.mp3",
+    img: "image/intheend.jpg",
+    singer: "Linkin Park(Mellen Gi & Tommee Profitt Remix)",
+  }
 ];
 
 // All functions
