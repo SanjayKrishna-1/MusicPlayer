@@ -57,6 +57,18 @@ let All_song = [
     path: "songs/song6.mp3",
     img: "image/intheend.jpg",
     singer: "Linkin Park(Mellen Gi & Tommee Profitt Remix)",
+  },
+  {
+    name: "Somehing Just Like This",
+    path: "songs/song7.mp3",
+    img: "image/somthing.jpeg",
+    singer: "Chainsmokers $ Coldplay"
+  },
+  {
+    name: "Hymm for the Weekend",
+    path: "songs/song8.mp3",
+    img: "image/coldplay.jpeg",
+    singer: "Coldplay"
   }
 ];
 
