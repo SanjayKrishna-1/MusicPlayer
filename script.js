@@ -61,7 +61,7 @@ let All_song = [
   {
     name: "Somehing Just Like This",
     path: "songs/song7.mp3",
-    img: "image/somthing.jpeg",
+    img: "image/something.jpeg",
     singer: "Chainsmokers $ Coldplay"
   },
   {
